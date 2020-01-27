@@ -6,3 +6,5 @@
 add some content to hello. txt
 123456789
 asdfwww
+wahaha
+qwerty
